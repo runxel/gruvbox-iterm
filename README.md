@@ -1,6 +1,6 @@
 # Gruvbox
 
-> An adoption of the Gruvbox theme as an iTerm theme.
+> An adoption of the Gruvbox theme by [morhetz](https://github.com/morhetz/gruvbox) as an iTerm theme.
 
 ![gruvbox display](gruvbox-colortool-display.png)
 
@@ -36,7 +36,8 @@ For the new Windows Terminal `settings.json` copy the following into your settin
 ],
 ```
 
-For tons of other color schemes I recommend [this repo](https://github.com/mbadolato/iTerm2-Color-Schemes).
+For tons of other color schemes I recommend [this repo](https://github.com/mbadolato/iTerm2-Color-Schemes).  
+Look at [terminal sexy](https://terminal.sexy/) if you want an easy way to generate those color schemes for yourself.
 
 ---
 
